@@ -1,1 +1,1 @@
-[null]
+[null,{"name":"Test","permissions":"NONE","restriction":"0","actions":[{"channel":"0","varName":"","message":"Test","storage":"0","varName2":"","name":"Send Message"}]}]
